@@ -13,6 +13,7 @@ const App = () => {
   return (
     <>
       <ThemeProvider theme={style}>
+        {/* <GlobalStyles/> */}
         <Header />
         </ThemeProvider>
     </>
